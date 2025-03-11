@@ -1,4 +1,4 @@
-# Multi-Sensor Time Synchronisation System
+# InfiniteSenseSDK 
 # 多传感器时间同步系统
 
 <p align="center" width="100%">
